@@ -9,8 +9,8 @@
             "email": "rogervila@me.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "rogervila/php-sonarqube-scanner": "dev-sonarscanner-v4"
+        "rogervila/php-sonarqube-scanner": "dev-master"
     }
 }
