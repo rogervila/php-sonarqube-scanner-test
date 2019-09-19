@@ -1,0 +1,16 @@
+{
+    "name": "rogervila/php-sonarqube-scanner-test",
+    "description": "Test rogervila/php-sonarqube-scanner",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Vilà",
+            "email": "rogervila@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "rogervila/php-sonarqube-scanner": "dev-sonarscanner-v4"
+    }
+}
