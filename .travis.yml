@@ -14,4 +14,4 @@ before_script:
   - php composer.phar install --dev
 
 script:
-  - vendor/bin/sonar-scanner -X Dsonar.login=$SONARCLOUD_TOKEN
+  - vendor/bin/sonar-scanner -X -Dsonar.login=$SONARCLOUD_TOKEN || exit 1
