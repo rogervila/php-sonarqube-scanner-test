@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "rogervila/php-sonarqube-scanner": "dev-master"
+        "rogervila/php-sonarqube-scanner": "1.0.0"
     }
 }
